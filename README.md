@@ -1,6 +1,6 @@
 ## Hey, [Turhan here!](https://www.youtube.com/channel/UCcSpzWDmk9Df_SQb_SpApfg)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
+<img src = 'https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b76111a727911e72bb786a6a6b69b79370e9ba9664904&rid=giphy.gif&ct=g' width= 300  align='right' style=""/>
 
 <h1>Welcome to my Personnel Github Account...</h1> 
 
@@ -12,11 +12,12 @@
 <a href="https://www.youtube.com/channel/UCcSpzWDmk9Df_SQb_SpApfg"><img src="https://img.shields.io/badge/youtube-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>  
 </p>
 
-<img src = 'https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b76111a727911e72bb786a6a6b69b79370e9ba9664904&rid=giphy.gif&ct=g' width= 300  align='right'/>
-
 - 🔭 I’m currently working on Detaysoft
+
 - 🌱 I’m currently learning PHP, Laravel PHP TypeScript, JavaScript, Java Spring Boot, React.js
+
 - 💬 Ask me about Everything
+
 - 📫 How to reach me: turhancetindev@gmail.com
 
 
