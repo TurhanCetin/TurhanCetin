@@ -1,5 +1,14 @@
 ## Hey, [Turhan here!](https://www.youtube.com/channel/UCcSpzWDmk9Df_SQb_SpApfg)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+
+<p align="justify">
+  <a href='https://findmentor.network/peer/TurhanCetin'>
+	<img src="https://komarev.com/ghpvc/?username=TurhanCetin
+    " alt="TurhanCetin" /> 
+  </a>
+</p>
+
+
 <h1>Welcome to my Personnel Github Account...</h1> 
 
 <p align="center">
@@ -13,9 +22,6 @@
 - 🌱 I’m currently learning PHP, Laravel PHP TypeScript, JavaScript, Java Spring Boot, React.js
 - 💬 Ask me about Everything
 - 📫 How to reach me: turhancetindev@gmail.com
-
-
-<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
 
 
 ![Turhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TurhanCetin&show_icons=true&theme=radical)
