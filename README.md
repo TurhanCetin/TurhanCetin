@@ -52,7 +52,7 @@ function WhoAmI(user,current_edu,interest,hobbies) {
     });      
 }           
 
-
+```
 
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TurhanCetin&layout=compact" align="left">
 
