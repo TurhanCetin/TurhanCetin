@@ -25,11 +25,32 @@
 ## Programming Languages
 <img src = 'https://github.com/TurhanCetin/TurhanCetin/blob/main/images/Laravel.svg.png' width='30'/> <img src = 'https://github.com/TurhanCetin/TurhanCetin/blob/main/images/php.png' width='30'/><img src = 'https://github.com/TurhanCetin/TurhanCetin/blob/main/images/react.png' width='30'/> <img src = 'https://github.com/TurhanCetin/TurhanCetin/blob/main/images/vue.png' width='30'/><img src = 'https://github.com/TurhanCetin/TurhanCetin/blob/main/images/angular3.png' width='30'/><img src = 'https://github.com/TurhanCetin/TurhanCetin/blob/main/images/typeScript.png' width='30'/><img src = 'https://github.com/TurhanCetin/TurhanCetin/blob/main/images/javascript2.png' width='30'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/TurhanCetin/TurhanCetin/blob/main/images/Docker-Symbol.png' width='50'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
 
- 
 
+## Who am I ?
+ ```javascript
+const user = "Turhan Çetin";
 
+var current_edu = "Cumhuriyet University in Turkey";
 
+let interest = "FS Consultant at Detaysoft";
 
+let hobbies = ['Play Computer Games',
+                'Read Comics',
+                'Draw Comics',
+                'Read Books' ];
+
+function getCity() {
+    return "Sivas";
+}
+
+function WhoAmI(user,current_edu,interest,hobbies) {
+    
+    console.log("Hello I'am " +user +'Studying at ' + current_edu + 'Work at ' + interest );
+
+    hobbies.forEach(hobby => {
+        console.log('My hobbies' + hobby);
+    });      
+}           
 
 
 
