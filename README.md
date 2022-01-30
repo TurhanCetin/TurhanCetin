@@ -1,6 +1,5 @@
-## Hey, [Turhan here!](https://www.youtube.com/channel/UCcSpzWDmk9Df_SQb_SpApfg)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey, [Turhan here!](https://www.youtube.com/channel/UCcSpzWDmk9Df_SQb_SpApfg)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src = 'https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b76111a727911e72bb786a6a6b69b79370e9ba9664904&rid=giphy.gif&ct=g' width= 300  align='right' style=""/>
 
-<img src = 'https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b76111a727911e72bb786a6a6b69b79370e9ba9664904&rid=giphy.gif&ct=g' width= 300  align='right' style=""/>
 
 <h1>Welcome to my Personnel Github Account...</h1> 
 
