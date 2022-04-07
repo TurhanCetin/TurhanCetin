@@ -1,4 +1,4 @@
-## Hey, [Turhan here!](https://www.youtube.com/channel/UCcSpzWDmk9Df_SQb_SpApfg)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey, [Turhan is here!](https://www.youtube.com/channel/UCcSpzWDmk9Df_SQb_SpApfg)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <h1>Welcome to my Personal Github Account...</h1> 
 
