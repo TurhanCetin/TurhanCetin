@@ -25,10 +25,10 @@
 ## Programming Languages
 <img src = 'https://github.com/TurhanCetin/TurhanCetin/blob/main/images/Laravel.svg.png' width='30'/> <img src = 'https://github.com/TurhanCetin/TurhanCetin/blob/main/images/php.png' width='30'/><img src = 'https://github.com/TurhanCetin/TurhanCetin/blob/main/images/react.png' width='30'/> <img src = 'https://github.com/TurhanCetin/TurhanCetin/blob/main/images/vue.png' width='30'/><img src = 'https://github.com/TurhanCetin/TurhanCetin/blob/main/images/angular3.png' width='30'/><img src = 'https://github.com/TurhanCetin/TurhanCetin/blob/main/images/typeScript.png' width='30'/><img src = 'https://github.com/TurhanCetin/TurhanCetin/blob/main/images/javascript2.png' width='30'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/TurhanCetin/TurhanCetin/blob/main/images/Docker-Symbol.png' width='50'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
 
-<div align="center">
+
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TurhanCetin&theme=synthwave" alt="TurhanCetin" align="left"/>
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TurhanCetin&layout=compact" align="right"/>
-</div>
+<br/>
 
 ## Who am I ?
  ```javascript
