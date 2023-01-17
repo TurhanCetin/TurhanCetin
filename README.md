@@ -55,5 +55,6 @@ function WhoAmI(user,current_edu,interest,hobbies) {
 ```
 
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TurhanCetin&layout=compact" align="left">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TurhanCetin&theme=synthwave" alt="TurhanCetin" />
 
 
