@@ -20,6 +20,8 @@
 <br>
 
 ![Turhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TurhanCetin&show_icons=true&theme=radical)
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TurhanCetin&layout=compact" align="right"/>
+
 
 
 ## Programming Languages
@@ -27,7 +29,6 @@
 
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TurhanCetin&theme=synthwave" alt="TurhanCetin" align="left"/>
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TurhanCetin&layout=compact" align="right"/>
 
  <br>
 
