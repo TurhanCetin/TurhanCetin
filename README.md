@@ -26,7 +26,7 @@
 
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TurhanCetin&theme=synthwave" alt="TurhanCetin" align="center"/>
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TurhanCetin&layout=compact" align="right"/>
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TurhanCetin&layout=compact" align="center"/>
 
 ## Who am I ?
  ```javascript
